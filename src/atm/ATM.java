@@ -217,6 +217,4 @@ public class ATM {
         this.account = account;
     }
     
-    
-    
 }
